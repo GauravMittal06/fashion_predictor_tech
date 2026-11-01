@@ -1,0 +1,18 @@
+# Python 3.13. Versions are the ones that produced the results in RESULTS.md.
+# PyTorch with NVIDIA GPU support (CUDA 11.8) - install first:
+#   pip install torch==2.7.1 torchvision==0.22.1 --index-url https://download.pytorch.org/whl/cu118
+open_clip_torch==3.3.0
+transformers==4.57.1
+chronos-forecasting==2.3.2
+statsmodels==0.15.0
+diffusers==0.39.0
+accelerate==1.15.0
+scikit-learn==1.7.2
+pandas==3.0.5
+numpy==2.2.6
+pillow==12.2.0
+openpyxl==3.1.5
+joblib==1.5.3
+matplotlib==3.10.0
+plotly==7.1.0
+streamlit==1.51.0

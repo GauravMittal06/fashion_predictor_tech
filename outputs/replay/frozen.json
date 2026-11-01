@@ -1,0 +1,11 @@
+{
+ "chosen": "chronos2+lstm_mix",
+ "development_until": "2023-12",
+ "development_start_months": 21,
+ "lstm_mix": {
+  "windows_train": 36591,
+  "windows_val": 4065,
+  "epochs": 38
+ },
+ "decided_before_replays": true
+}

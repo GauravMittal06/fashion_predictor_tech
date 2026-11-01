@@ -1,0 +1,329 @@
+{
+ "calibration": {
+  "near_copy": 0.9496650695800781,
+  "realism": 0.7308354377746582,
+  "median": 0.8335959911346436
+ },
+ "frozen_forecaster": "chronos2+lstm_mix",
+ "spring2027": {
+  "brief": {
+   "place": "Spain",
+   "season": "spring 2027",
+   "style": null,
+   "fabrics": [
+    "Cotton/Linen"
+   ],
+   "colours": [
+    "green"
+   ],
+   "motif": "striped",
+   "styling_fabrics": [
+    "Leather"
+   ],
+   "pieces": [
+    "linen shirt",
+    "leather trousers"
+   ],
+   "colour_words": [
+    "green"
+   ],
+   "evidence": [
+    "linen shirt",
+    "striped dress",
+    "linen trousers",
+    "leather trousers",
+    "shearling jacket",
+    "floral dress"
+   ],
+   "avoid": []
+  },
+  "prompt": "full-body street style photo of a woman in Spain wearing a green boldly striped linen shirt with plain light trousers, loose matte crumpled linen fabric, not silk, spring 2027, natural daylight, editorial photography, sharp focus",
+  "text_only": {
+   "concepts": 12,
+   "kept": 12,
+   "match_brief": 12,
+   "look_real": 12,
+   "near_copies": 0,
+   "median_realism_percentile": 0.21000000000000002
+  },
+  "checks": [
+   {
+    "index": 0,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.764,
+    "realism_percentile": 0.17,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 1,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.796,
+    "realism_percentile": 0.29,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 2,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.779,
+    "realism_percentile": 0.22,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 3,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.798,
+    "realism_percentile": 0.3,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 4,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.806,
+    "realism_percentile": 0.35,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 5,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.762,
+    "realism_percentile": 0.16,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 6,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.794,
+    "realism_percentile": 0.28,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 7,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.762,
+    "realism_percentile": 0.16,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 8,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.753,
+    "realism_percentile": 0.11,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 9,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": true
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.758,
+    "realism_percentile": 0.14,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 10,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.77,
+    "realism_percentile": 0.2,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   },
+   {
+    "index": 11,
+    "detail": {
+     "fabric Cotton/Linen": true,
+     "colour green": true
+    },
+    "info": {
+     "print (not measured)": false
+    },
+    "matched": 2,
+    "needed": 2,
+    "matches_brief": true,
+    "nearest_real": 0.803,
+    "realism_percentile": 0.33,
+    "looks_real": true,
+    "near_copy": false,
+    "kept": true,
+    "nearest_index": 159
+   }
+  ]
+ },
+ "replay2025": {
+  "brief": {
+   "place": "Southern Europe",
+   "season": "spring and summer 2025",
+   "style": null,
+   "fabrics": [
+    "Knit"
+   ],
+   "colours": [
+    "brown"
+   ],
+   "motif": "polka dot",
+   "styling_fabrics": [
+    "Fur/Shearling"
+   ],
+   "pieces": [
+    "knit jumper",
+    "shearling jacket"
+   ],
+   "colour_words": [
+    "brown"
+   ],
+   "evidence": [
+    "knit jumper",
+    "shearling jacket",
+    "brown dress",
+    "women's coat",
+    "wool coat",
+    "linen trousers"
+   ],
+   "avoid": []
+  },
+  "prompt": "full-body street style photo of a woman in Southern Europe wearing a brown polka-dot knit jumper with plain light trousers, spring and summer 2025, natural daylight, editorial photography, sharp focus",
+  "control_prompt": "full-body street style photo of a woman in Southern Europe wearing an outfit, natural daylight, editorial photography, sharp focus",
+  "photos_2025": 31,
+  "photos_2024": 31,
+  "forecast_lean_to_2025": 0.0067130327224731445,
+  "control_lean_to_2025": -0.024482250213623047,
+  "forecast_concepts_closer_to_2025": 9,
+  "control_concepts_closer_to_2025": 0,
+  "checks": {
+   "concepts": 12,
+   "kept": 11,
+   "match_brief": 11,
+   "look_real": 11,
+   "near_copies": 0,
+   "median_realism_percentile": 0.17
+  }
+ }
+}

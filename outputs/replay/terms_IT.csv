@@ -1,0 +1,21 @@
+,english,attribute
+vestito di lino,linen dress,fabric:Cotton/Linen
+pantaloni di lino,linen trousers,fabric:Cotton/Linen
+camicia di lino,linen shirt,fabric:Cotton/Linen
+vestito di raso,satin dress,fabric:Satin/Silk
+vestito di pizzo,lace dress,fabric:Lace/Mesh/Sheer
+giubbotto di pelle,leather jacket,fabric:Leather
+cappotto di lana,wool coat,fabric:Wool/Tweed
+maglione di lana,wool jumper,fabric:Knit
+giacca tweed,tweed jacket,fabric:Wool/Tweed
+montone donna,women's shearling coat,fabric:Fur/Shearling
+vestito rosso,red dress,colour:red
+vestito nero,black dress,colour:black
+vestito bianco,white dress,colour:white/cream
+vestito beige,beige dress,colour:beige
+vestito rosa,pink dress,colour:pink
+vestito verde,green dress,colour:green
+vestito blu,blue dress,colour:blue
+vestito marrone,brown dress,colour:brown
+vestito argento,silver dress,colour:metallic
+vestito giallo,yellow dress,colour:yellow

@@ -1,0 +1,34 @@
+term,english,attribute
+vestido de lino,linen dress,fabric:Cotton/Linen
+pantalon de lino,linen trousers,fabric:Cotton/Linen
+camisa de lino,linen shirt,fabric:Cotton/Linen
+vestido de saten,satin dress,fabric:Satin/Silk
+vestido de encaje,lace dress,fabric:Lace/Mesh/Sheer
+chaqueta de cuero,leather jacket,fabric:Leather
+pantalon de cuero,leather trousers,fabric:Leather
+abrigo de lana,wool coat,fabric:Wool/Tweed
+chaqueta tweed,tweed jacket,fabric:Wool/Tweed
+jersey de punto,knit jumper,fabric:Knit
+vestido de punto,knit dress,fabric:Knit
+chaqueta borreguito,shearling jacket,fabric:Fur/Shearling
+vestido vaquero,denim dress,fabric:Denim
+chaqueta vaquera,denim jacket,fabric:Denim
+vestido de lentejuelas,sequin dress,fabric:Sequin/Metallic
+vestido rojo,red dress,colour:red
+vestido negro,black dress,colour:black
+vestido blanco,white dress,colour:white/cream
+vestido beige,beige dress,colour:beige
+vestido rosa,pink dress,colour:pink
+vestido verde,green dress,colour:green
+vestido azul,blue dress,colour:blue
+vestido marron,brown dress,colour:brown
+vestido plateado,silver dress,colour:metallic
+vestido amarillo,yellow dress,colour:yellow
+vestido de fiesta,party dress,style:Evening/Party
+bikini,bikini,style:Resort/Swim
+traje mujer,women's suit,style:Tailored/Suiting
+abrigo mujer,women's coat,style:Winter/Outerwear
+vestido de flores,floral dress,motif:floral
+vestido de rayas,striped dress,motif:striped
+vestido de lunares,polka-dot dress,motif:polka dot
+vestido estampado,printed dress,motif:print

@@ -1,0 +1,37 @@
+{
+  "recipe": {
+    "style": "A+pr",
+    "fabric": "A+pr",
+    "colour": "A"
+  },
+  "photos": 195,
+  "pages": 20,
+  "labels": "labels.csv",
+  "picks_per_fold": [
+    {
+      "style": "A+B",
+      "fabric": "A+B+pr",
+      "colour": "A"
+    },
+    {
+      "style": "A+B+pr",
+      "fabric": "A+pr",
+      "colour": "A+B+pr"
+    },
+    {
+      "style": "A+pr",
+      "fabric": "A",
+      "colour": "A+pr"
+    },
+    {
+      "style": "A+B",
+      "fabric": "A+pr",
+      "colour": "A"
+    },
+    {
+      "style": "A+pr",
+      "fabric": "A+pr",
+      "colour": "A"
+    }
+  ]
+}

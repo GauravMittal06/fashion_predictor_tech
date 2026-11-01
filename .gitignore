@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local tool settings
+.claude/
+
+# Downloaded again by scripts/download_data.py (and models by scripts/download_models.py)
+data/raw/
+
+# Caches, logs and pages the app generates
+outputs/tagger/cv_embeddings.npz
+*.log
+outputs/*.html
+review/
+
+# Superseded steps, not part of the rebuild
+scripts/build_search_trends.py
+outputs/search/
+outputs/tagger/embeddings.npz
+outputs/tagger/probe.joblib
+outputs/tagger/choice.json
+outputs/tagger/test.csv
+outputs/tagger/validation.csv
+outputs/designer/results_previous.json
+
+# Duplicates and old hand-ins (batch 2 photos are already extracted into dataset_images_2/photos/)
+dataset_images_2/*.zip
+Fashion_Prediction_Technology_code.zip
+Fashion_Prediction_Technology_How_It_Works_and_Testing_Guide.pdf
+reference/
+
+# Barcelona sample: only the 28 photos that passed the screen (check_tagger_barcelona.py downloads the rest)
+data/barcelona_photos/*
+!data/barcelona_photos/2016-06_3c2ab77b.jpg
+!data/barcelona_photos/2016-06_b5df3a98.jpg
+!data/barcelona_photos/2016-07_0029c07a.jpg
+!data/barcelona_photos/2016-07_582a5878.jpg
+!data/barcelona_photos/2016-07_eade1167.jpg
+!data/barcelona_photos/2016-08_4d6249e4.jpg
+!data/barcelona_photos/2016-08_8b3ccdb1.jpg
+!data/barcelona_photos/2016-08_8dfa46be.jpg
+!data/barcelona_photos/2016-08_efa68323.jpg
+!data/barcelona_photos/2016-09_2b408630.jpg
+!data/barcelona_photos/2016-09_980fcf1d.jpg
+!data/barcelona_photos/2016-09_af97f413.jpg
+!data/barcelona_photos/2016-10_5ac4cca6.jpg
+!data/barcelona_photos/2016-10_e7225057.jpg
+!data/barcelona_photos/2016-11_1745226c.jpg
+!data/barcelona_photos/2016-11_cf086948.jpg
+!data/barcelona_photos/2016-11_e2328e46.jpg
+!data/barcelona_photos/2016-12_d401dd9c.jpg
+!data/barcelona_photos/2017-01_6f203340.jpg
+!data/barcelona_photos/2017-08_109f0cf6.jpg
+!data/barcelona_photos/2017-10_2a14feb6.jpg
+!data/barcelona_photos/2017-10_fa20e5a4.jpg
+!data/barcelona_photos/2017-11_d356fa2f.jpg
+!data/barcelona_photos/2017-12_1b9c92db.jpg
+!data/barcelona_photos/2017-12_c6e211a6.jpg
+!data/barcelona_photos/2018-03_2fd9aa68.jpg
+!data/barcelona_photos/2018-03_4a2d4ef1.jpg
+!data/barcelona_photos/2018-04_965a1fa2.jpg

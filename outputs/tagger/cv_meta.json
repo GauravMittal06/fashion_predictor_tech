@@ -1,0 +1,49 @@
+{
+  "recipe": {
+    "style": "A+pr",
+    "fabric": "A+pr",
+    "colour": "A"
+  },
+  "photos": 295,
+  "pages": 30,
+  "batches": {
+    "1": 195,
+    "2": 100
+  },
+  "labels": [
+    "labels.csv",
+    "labels_batch2.csv"
+  ],
+  "picks_per_fold": [
+    {
+      "style": "A+B+pr",
+      "fabric": "A+pr",
+      "colour": "A"
+    },
+    {
+      "style": "A+pr",
+      "fabric": "A+B+pr",
+      "colour": "A+B+pr"
+    },
+    {
+      "style": "A+pr",
+      "fabric": "A+pr",
+      "colour": "A+pr"
+    },
+    {
+      "style": "A+B+pr",
+      "fabric": "A+pr",
+      "colour": "A"
+    },
+    {
+      "style": "A+pr",
+      "fabric": "A+B+pr",
+      "colour": "A1"
+    }
+  ],
+  "recipe_batch1_only": {
+    "style": "A+pr",
+    "fabric": "A+pr",
+    "colour": "A"
+  }
+}
